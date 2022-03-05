@@ -16,4 +16,4 @@ Love one of my projects? Feeling generous? [Buy me a coffee!](https://www.buymea
 
 ## Contact
 
-Feel free to reach me via [email](sn1f3rt@outlook.com) `sn1f3rt@outlook.com` or [Discord](https://discord.com/users/589768200766619659) `Sn1F3rt#0001`, I actively check messages on both. 
+Feel free to reach me via [email](mailto:sn1f3rt@outlook.com) `sn1f3rt@outlook.com` or [Discord](https://discord.com/users/589768200766619659) `Sn1F3rt#0001`, I actively check messages on both. 
