@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hello! 👋
 
-I'm a 19-year-old full-stack developer, visionary, and entrepreneur. I ❤️ open-source and am willing to contribute/collaborate to any projects that I am able to. 
+I'm a 20-year-old student, a full-stack developer, and an aspiring entrepreneur. I am pursuing a Bachelor of Technology in Computer Science and Engineering from Amity University, Haryana.
+
+I ❤️ **#OpenSource** and am willing to collaborate on any project of interest. 
+
+Check out my [Linkedin](https://www.linkedin.com/in/sayan-bhattacharyya/) profile for insights into my professional life. 
 
 ## Statistics
 
@@ -10,10 +14,8 @@ I'm a 19-year-old full-stack developer, visionary, and entrepreneur. I ❤️ op
 
 ## Support
 
-Love one of my projects? Feeling generous? [Buy me a coffee!](https://www.buymeacoffee.com/sn1f3rt)
-
-[PayPal](https://paypal.me/Sn1F3rt) available as well. 😉
+Love one of my projects? Feeling generous? [Buy me a coffee!](https://www.buymeacoffee.com/sn1f3rt) ([PayPal](https://paypal.me/Sn1F3rt))
 
 ## Contact
 
-Feel free to reach me via [email](mailto:sn1f3rt@outlook.com) `sn1f3rt@outlook.com` or [Discord](https://discord.com/users/589768200766619659) `Sn1F3rt#0001`, I actively check messages on both. 
+Feel free to reach out to me via [email](mailto:sayan@sn1f3rt.me) `sayan@sn1f3rt.me` or [Discord](https://discord.com/users/589768200766619659) `@sn1f3rt`. 
