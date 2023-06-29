@@ -8,9 +8,9 @@ Check out my [Linkedin](https://www.linkedin.com/in/sayan-bhattacharyya/) profil
 
 ## Statistics
 
-[![Sn1F3rt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sn1F3rt&show_icons=true&count_private=true&theme=dracula&border_radius=25)](https://sn1f3rt.me)
+[![Sn1F3rt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sn1F3rt&show_icons=true&count_private=true&theme=dracula&border_radius=25)](https://github.com/Sn1F3rt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sn1F3rt&count_private=true&theme=dracula&border_radius=25)](https://sn1f3rt.me)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sn1F3rt&count_private=true&theme=dracula&border_radius=25)]([https://sn1f3rt.me](https://github.com/Sn1F3rt))
 
 ## Support
 
