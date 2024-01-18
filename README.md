@@ -1,20 +1,20 @@
-### Hello! 👋
+# Bonjour! 👋
 
-I'm a 20-year-old student, a full-stack developer, and an aspiring entrepreneur. I am pursuing a Bachelor of Technology in Computer Science and Engineering from Amity University, Haryana.
+I'm a 20-year-old student, freelancer, and full-stack developer. I am currently pursuing a Bachelor of Technology (B.Tech) in Computer Science & Engineering from Amity University, Haryana.
 
 I ❤️ **#OpenSource** and am willing to collaborate on any project of interest. 
 
-Check out my [Linkedin](https://www.linkedin.com/in/sayan-bhattacharyya/) profile for insights into my professional life. 
+Check out my [LinkedIn](https://www.linkedin.com/in/sayan-bhattacharyya/) profile for insights into my professional life. 
 
 ## Statistics
 
-[![Sn1F3rt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sn1F3rt&show_icons=true&count_private=true&theme=dracula&border_radius=25)](https://github.com/Sn1F3rt)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sn1F3rt&bg_color=60,21e1ae,09aeea&title_color=00008B&icon_color=000080&border_color=000080&border_radius=10&custom_title=My%20GitHub%20Stats&show_icons=true&rank_icon=github&ring_color=000080&hide=contribs&show=prs_merged)](https://github.com/Sn1F3rt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sn1F3rt&count_private=true&theme=dracula&border_radius=25)]([https://sn1f3rt.me](https://github.com/Sn1F3rt))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sn1F3rt&hide_progress=true&bg_color=60,21e1ae,09aeea&title_color=00008B&icon_color=000080&border_color=000080&border_radius=10&custom_title=Languages%20I%20Use)]([https://sn1f3rt.me](https://github.com/Sn1F3rt))
 
 ## Support
 
-Love one of my projects? Feeling generous? [Buy me a coffee!](https://www.buymeacoffee.com/sn1f3rt) ([PayPal](https://paypal.me/Sn1F3rt))
+You can [sponsor me](https://github.com/sponsors/Sn1F3rt), which helps me dedicate more time to my projects. 
 
 ## Contact
 
