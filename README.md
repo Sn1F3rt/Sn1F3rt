@@ -8,9 +8,9 @@ Check out my [LinkedIn](https://www.linkedin.com/in/sayan-bhattacharyya/) profil
 
 ## Statistics
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sn1F3rt&bg_color=60,21e1ae,09aeea&title_color=00008B&icon_color=000080&border_color=000080&border_radius=10&custom_title=My%20GitHub%20Stats&show_icons=true&rank_icon=github&ring_color=000080&hide=contribs&show=prs_merged)](https://github.com/Sn1F3rt)
+[![My GitHub Stats](https://grs.sn1f3rt.me/api?username=Sn1F3rt&bg_color=60,21e1ae,09aeea&title_color=00008B&icon_color=000080&border_color=000080&border_radius=10&custom_title=My%20GitHub%20Stats&show_icons=true&rank_icon=github&ring_color=000080&include_all_commits=true&hide=contribs&show=prs_merged,prs_merged_percentage)](https://github.com/Sn1F3rt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sn1F3rt&hide_progress=true&bg_color=60,21e1ae,09aeea&title_color=00008B&icon_color=000080&border_color=000080&border_radius=10&custom_title=Languages%20I%20Use)]([https://sn1f3rt.me](https://github.com/Sn1F3rt))
+[![Top Langs](https://grs.sn1f3rt.me/api/top-langs/?username=Sn1F3rt&hide_progress=true&bg_color=60,21e1ae,09aeea&title_color=00008B&icon_color=000080&border_color=000080&border_radius=10&custom_title=Languages%20I%20Use)]([https://sn1f3rt.me](https://github.com/Sn1F3rt))
 
 ## Support
 
