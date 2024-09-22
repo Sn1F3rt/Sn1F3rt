@@ -12,6 +12,10 @@ Check out my [LinkedIn](https://www.linkedin.com/in/sayan-bhattacharyya/) profil
 
 [![Top Langs](https://grs.sn1f3rt.dev/api/top-langs/?username=Sn1F3rt&hide_progress=true&bg_color=60,2c2122,df435d&title_color=FFE5B4&text_color=F5F5DC&icon_color=df435d&border_color=df435d&border_radius=10&custom_title=Languages%20I%20Use)](https://github.com/Sn1F3rt)
 
+## Badges
+
+[![Holopin Board](https://holopin.me/sn1f3rt)](https://holopin.io/@sn1f3rt)
+
 ## Support
 
 You can support me by making a monthly or one-time donation, which helps me dedicate more time to my projects. 
