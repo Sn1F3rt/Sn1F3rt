@@ -1,6 +1,6 @@
 # Bonjour! 👋
 
-I'm a 21-year-old student, freelancer, and full-stack developer. I am pursuing a Bachelor of Technology (B.Tech) in Computer Science & Engineering from Amity University, Haryana.
+I'm a 21-year-old full-stack developer and open-source enthusiast. I am pursuing a Bachelor of Technology (B.Tech) in Computer Science & Engineering from Amity University, Haryana.
 
 I ❤️ **#OpenSource** and am willing to collaborate on any project of interest. 
 
